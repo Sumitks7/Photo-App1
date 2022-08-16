@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Photo-App1/static/css/main.b1ecc599.css",
+    "main.js": "/Photo-App1/static/js/main.6b37eaf7.js",
+    "index.html": "/Photo-App1/index.html",
+    "main.b1ecc599.css.map": "/Photo-App1/static/css/main.b1ecc599.css.map",
+    "main.6b37eaf7.js.map": "/Photo-App1/static/js/main.6b37eaf7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1ecc599.css",
+    "static/js/main.6b37eaf7.js"
+  ]
+}
